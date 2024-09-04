@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-:telescope: I’m currently working on Floui
+:telescope: Looking for an opportunity as QA. 
 
 
 # 💻 Tech Stack:
