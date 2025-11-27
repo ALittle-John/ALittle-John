@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alittle-john&label=Profile%20views&color=0e75b6&style=flat" alt="alittle-john" /> </p>
 
-- 🔭 I’m currently working on my own project **automated_tests**
+- 🔭 I’m currently working on my own project **automated_tests**, that will contain all types of automated tests.
 
 - 🌱 I’m currently learning **SQL Automaton tests and Security tests**
 
